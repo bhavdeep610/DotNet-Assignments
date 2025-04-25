@@ -1,0 +1,15 @@
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\bin\Debug\net8.0\studentgrade.exe
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\bin\Debug\net8.0\studentgrade.deps.json
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\bin\Debug\net8.0\studentgrade.runtimeconfig.json
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\bin\Debug\net8.0\studentgrade.dll
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\bin\Debug\net8.0\studentgrade.pdb
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.AssemblyInfoInputs.cache
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.AssemblyInfo.cs
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.csproj.CoreCompileInputs.cache
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.sourcelink.json
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.dll
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\refint\studentgrade.dll
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.pdb
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\studentgrade.genruntimeconfig.cache
+C:\Users\BhavdeepSinghRajora\Assignments\studentgrade\studentgrade\obj\Debug\net8.0\ref\studentgrade.dll
